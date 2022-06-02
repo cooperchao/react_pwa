@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/react_pwa/static/css/main.1b49afde.chunk.css",
-    "main.js": "/react_pwa/static/js/main.d3a660ef.chunk.js",
-    "main.js.map": "/react_pwa/static/js/main.d3a660ef.chunk.js.map",
-    "runtime-main.js": "/react_pwa/static/js/runtime-main.78e02575.js",
-    "runtime-main.js.map": "/react_pwa/static/js/runtime-main.78e02575.js.map",
+    "main.js": "/react_pwa/static/js/main.e08ed892.chunk.js",
+    "main.js.map": "/react_pwa/static/js/main.e08ed892.chunk.js.map",
+    "runtime-main.js": "/react_pwa/static/js/runtime-main.55fd62ae.js",
+    "runtime-main.js.map": "/react_pwa/static/js/runtime-main.55fd62ae.js.map",
     "static/js/2.c5376703.chunk.js": "/react_pwa/static/js/2.c5376703.chunk.js",
     "static/js/2.c5376703.chunk.js.map": "/react_pwa/static/js/2.c5376703.chunk.js.map",
     "static/js/3.b9b67541.chunk.js": "/react_pwa/static/js/3.b9b67541.chunk.js",
     "static/js/3.b9b67541.chunk.js.map": "/react_pwa/static/js/3.b9b67541.chunk.js.map",
-    "static/js/4.5d386806.chunk.js": "/react_pwa/static/js/4.5d386806.chunk.js",
-    "static/js/4.5d386806.chunk.js.map": "/react_pwa/static/js/4.5d386806.chunk.js.map",
-    "static/js/5.ddbcc62e.chunk.js": "/react_pwa/static/js/5.ddbcc62e.chunk.js",
-    "static/js/5.ddbcc62e.chunk.js.map": "/react_pwa/static/js/5.ddbcc62e.chunk.js.map",
+    "static/js/4.807ec91e.chunk.js": "/react_pwa/static/js/4.807ec91e.chunk.js",
+    "static/js/4.807ec91e.chunk.js.map": "/react_pwa/static/js/4.807ec91e.chunk.js.map",
+    "static/js/5.a2101090.chunk.js": "/react_pwa/static/js/5.a2101090.chunk.js",
+    "static/js/5.a2101090.chunk.js.map": "/react_pwa/static/js/5.a2101090.chunk.js.map",
     "static/js/6.98de507a.chunk.js": "/react_pwa/static/js/6.98de507a.chunk.js",
     "static/js/6.98de507a.chunk.js.map": "/react_pwa/static/js/6.98de507a.chunk.js.map",
     "static/js/7.988afb28.chunk.js": "/react_pwa/static/js/7.988afb28.chunk.js",
@@ -29,9 +29,9 @@
     "static/media/netflix-logo.ea62dbc6.png": "/react_pwa/static/media/netflix-logo.ea62dbc6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.78e02575.js",
+    "static/js/runtime-main.55fd62ae.js",
     "static/js/3.b9b67541.chunk.js",
     "static/css/main.1b49afde.chunk.css",
-    "static/js/main.d3a660ef.chunk.js"
+    "static/js/main.e08ed892.chunk.js"
   ]
 }
