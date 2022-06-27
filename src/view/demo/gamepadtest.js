@@ -1,21 +1,21 @@
 import React from 'react';
 import Layout from '../../components/layout';
-import useGamepads from 'awesome-react-gamepads';
+// import useGamepads from 'awesome-react-gamepads';
 
-interface IGamepads {
-  [key: number]: Gamepad;
-}
+// interface IGamepads {
+//   [key: number]: Gamepad;
+// }
 
 const Controller = () => {
-  const [gamepad, setGamepad] = useState<Gamepad>({});
-  const [gamepads, setGamepads] = useState<IGamepads>(null);
-
-  useGamepads({
-    // onConnect: (gamepad) => console.log('Gamepad Connected: ', gamepad),
-    onUpdate: (gamepad) => setGamepads(gamepad),
-    onGamepadButtonUp: (button) => onGamepadButtonUp(button),
-    onKonamiSuccess: () => onKonamiSuccess(),
-  });
+  // const [gamepad, setGamepad] = useState<Gamepad>({});
+  // const [gamepads, setGamepads] = useState<IGamepads>(null);
+  //
+  // useGamepads({
+  //   // onConnect: (gamepad) => console.log('Gamepad Connected: ', gamepad),
+  //   onUpdate: (gamepad) => setGamepads(gamepad),
+  //   onGamepadButtonUp: (button) => onGamepadButtonUp(button),
+  //   onKonamiSuccess: () => onKonamiSuccess(),
+  // });
 
   return (
 
