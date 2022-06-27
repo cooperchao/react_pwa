@@ -3,9 +3,9 @@ import Layout from '../../components/layout';
 
 import useGamepads from 'awesome-react-gamepads';
 
-interface IGamepads {
-  [key: number]: Gamepad;
-}
+// interface IGamepads {
+//   [key: number]: Gamepad;
+// }
 
 const Controller = () => {
   const [gamepad, setGamepad] = useState<Gamepad>({});
