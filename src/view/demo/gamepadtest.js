@@ -1,11 +1,10 @@
 import React from 'react';
 import Layout from '../../components/layout';
-
 import useGamepads from 'awesome-react-gamepads';
 
-// interface IGamepads {
-//   [key: number]: Gamepad;
-// }
+interface IGamepads {
+  [key: number]: Gamepad;
+}
 
 const Controller = () => {
   const [gamepad, setGamepad] = useState<Gamepad>({});
@@ -19,8 +18,9 @@ const Controller = () => {
   });
 
   return (
+
     <Layout>
-      <div>GamePadTest</div>
+      <h1 className="text-xl font-bold mb-4">GamePadTest</h1>
     </Layout>
   );
 };
