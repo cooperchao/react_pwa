@@ -15,6 +15,9 @@ const Nav = () => {
           <li>
             <a href="https://www.netflix.com" target="_blank" rel="noopener noreferrer noopener">Recent</a>
           </li>
+          <li>
+            <Link to="/demo/gamepadtest">GamePadTest</Link>
+          </li>
         </ul>
       </nav>
     </div>
